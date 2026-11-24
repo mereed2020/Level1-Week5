@@ -1,3 +1,3 @@
-Level 1 Week5 Project
+# Level1 Week5 Project
 
-This Project contains all class assignments
+This project contains the exercises and assignments for Week 5 of the Level1 course.
