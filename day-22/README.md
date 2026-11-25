@@ -21,15 +21,15 @@ Complete this separate page for Assignment 1. Choose fictional content different
 
 [](https://github.com/uliseslargaespada/level1-week5/blob/main/day-22/README.md#my-explanation)
 
-* Fictional activity and intended visitor: TODO
-* What `index.html` contributes: TODO
-* What `style.css` contributes: TODO
-* Element and CSS rule I inspected in DevTools: TODO
-* One responsive choice, where it is in my code, and why it helps: TODO
-* Any repair, retest, or unfinished part: TODO
+* Fictional activity and intended visitor: MEEEEE
+* What `index.html` contributes: My page
+* What `style.css` contributes: my style
+* Element and CSS rule I inspected in DevTools: just some simple background color and font sizing and color
+* One responsive choice, where it is in my code, and why it helps: I am afraid i do not understand the actual question but my code is suppose to help people out with their ideas and projects.
+* Any repair, retest, or unfinished part: so far nothing i have not checked yet.
 
 ## How I opened the page
 
-[](https://github.com/uliseslargaespada/level1-week5/blob/main/day-22/README.md#how-i-opened-the-page)
+[](https://github.com/uliseslargaespada/level1-week5/blob/main/day-22/README.md#how-i-opened-the-page) I can check it out locally on my pc going to local opening it up in my browser
 
 TODO: Explain the local file route or the Codespaces preview command/path you actually used. Keep credentials and private preview links out of the repository.
